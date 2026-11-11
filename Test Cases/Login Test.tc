@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Test</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Fatin Nabilah Ahmad Sabri</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Fatin Nabilah Ahmad Sabri</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>fd632a33-ea1e-43fb-b108-48de9d357e24</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>fd632a33-ea1e-43fb-b108-48de9d357e24</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0f5d6eb3-2292-4f44-8c7e-29c7c1e0a955</testCaseGuid>
+</TestCaseEntity>
